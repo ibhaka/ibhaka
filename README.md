@@ -6,7 +6,7 @@
 
 - 👨‍💻 You can review my projects [https://github.com/ibhaka](https://github.com/ibhaka)
 
-- 💬 Ask me about **Java, Serenity, JMeter, Automating Testing**
+- 💬 Ask me about **Java, Serenity, JMeter, Automation Testing**
 
 - 📫 How to reach me **iihalilkalkan@gmail.com**
 
