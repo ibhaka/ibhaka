@@ -2,7 +2,6 @@
             <h3 align="center"><img align="center" src="https://komarev.com/ghpvc/?username=ibhaka&color=green" alt="ibhaka" /> </h3>
 
 
-- 🌱 I’m currently learning **Cucumber, Serenity, Docker, Appium, Android(Java)**
 
 - 👨‍💻 You can review my projects [https://github.com/ibhaka](https://github.com/ibhaka)
 
